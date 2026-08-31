@@ -1,0 +1,10 @@
+.pdf
+/images/
+/*-md/
+page-*.md
+vendor/
+.env
+.DS_Store
+*.so
+*.dylib
+bin/
